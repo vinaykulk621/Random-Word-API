@@ -6,6 +6,4 @@
 
 > [https://random-words-in-english.herokuapp.com/](https://random-words-in-english.herokuapp.com/)
 
-<br>
-
 > [https://random-word7.p.rapidapi.com/](https://random-word7.p.rapidapi.com/)
