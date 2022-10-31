@@ -9,7 +9,7 @@ let words = module.words;
 
 // the API resposne
 app.get("/", (req, res) => {
-    res.json({ response: `${words[Math.floor(Math.random() * words.length)]}---${Math.floor(Math.random() * words.length)}` })
+    res.json({ response: `${words[Math.floor(Math.random() * words.length)]}` })
 })
 
 
